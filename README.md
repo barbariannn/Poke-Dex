@@ -1,0 +1,6 @@
+#Pokemon PokeDex
+Welcome to my Pokedex-like website, created as a JavaScript project using the PokéAPI! This project aims to provide an interactive and dynamic platform to explore detailed information about various Pokémon.
+
+##Demo
+Check out the live demo: [[Your Website Link]](https://pokemon-pookedex.netlify.app/)
+![pokemon-pokidex](https://github.com/barbariannn/Poke-Dex/assets/131708693/26a50f50-f9f6-4aff-ba2a-4c69bf72af12)
