@@ -5,7 +5,7 @@
         // const baseURL = "https://raw.githubusercontent.com/PokeAPI/sprites/02ed2f6ed8dabcb89037ec14cf0b2d61c56a7a74/sprites/pokemon/other/dream-world/";
         const nameURL = "https://pokeapi.co/api/v2/pokemon/";
 
-
+      //change the range of i to see more result
         for (let i = 1; i <= 50; i++) {
             const div = document.createElement('div');
             const label = document.createElement('p');
