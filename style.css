@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins';
+}
+.image img {
+  width: 100px;
+  height: 100px;
+}
+
+.image div {
+  padding: 15px;
+  width: 17%;
+  height: 15%;
+  display: inline-block;
+  border: 1px solid #000;
+  text-align: center;
+  text-transform: capitalize;
+}
